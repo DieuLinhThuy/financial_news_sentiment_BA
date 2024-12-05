@@ -1,4 +1,4 @@
-Die Bachelorarbeit: Analyse des Einflusses von Sentiments aus Finanzartikeln des Magazins 'Der Aktionär' auf die Aktienperformance deutscher Nebenwerte mithilfe von Sentimentanalyse und statistischen Methoden.
+Thema der Bachelorarbeit: Sentimentanalyse von „Der Aktionär“-Artikeln und nachgelagerte Korrelationsanalyse der Aktienperformance
 ### `get_data.ipynb`
 - Dieses Jupyter Notebook extrahiert Aktiennamen, Heftnummern und Seitenzahlen aus den Artikeln von „Der Aktionär“.
 - Die Ergebnisse dienen als Grundlage für die manuelle Extraktion und werden in einer strukturierten Form gespeichert (z. B. `stock_data`).
