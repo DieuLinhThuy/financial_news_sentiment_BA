@@ -2,7 +2,6 @@ Thema der Bachelorarbeit: Sentimentanalyse von „Der Aktionär“-Artikeln und 
 
 Name: Thuy Dieu Linh, Nguyen
 
-Matrikelnummer: 11147085
 
 ### `get_data.ipynb`
 - Dieses Jupyter Notebook extrahiert Aktiennamen, Heftnummern und Seitenzahlen aus den Artikeln von „Der Aktionär“.
