@@ -1,11 +1,14 @@
-Thema der Bachelorarbeit: Sentimentanalyse von „Der Aktionär“-Artikeln und nachgelagerte Korrelationsanalyse der Aktienperformance
+# Bachelorarbeit
+**Thema:** Sentimentanalyse von „Der Aktionär“-Artikeln und nachgelagerte Korrelationsanalyse der Aktienperformance
 
-Name: Thuy Dieu Linh, Nguyen
+**Name:** Thuy Dieu Linh, Nguyen
 
 
 ### `get_data.ipynb`
 - Dieses Jupyter Notebook extrahiert Aktiennamen, Heftnummern und Seitenzahlen aus den Artikeln von „Der Aktionär“.
 - Die Ergebnisse dienen als Grundlage für die manuelle Extraktion und werden in einer strukturierten Form gespeichert (z. B. `stock_data`).
+  - Aufgrund der Dateigröße stehen die Dateien nicht direkt im Repository zur Verfügung. Diese können über einen freigegebenen Google Drive-Ordner heruntergeladen werden.
+  -  Abrufbar über folgenden Link [Google Drive Ordner - Articles](https://drive.google.com/file/d/1v1PIUoIuFxb8zoBAYuQTMwuTk4wKuwzJ/view?usp=sharing)
 
 ### `sentiment_analysis.ipynb`
 - Führt die Sentimentanalyse der extrahierten Artikel durch.
